@@ -1,4 +1,5 @@
-## Hi there 👋
+<img src="https://i.ibb.co.com/hRbggGpq/202650321-7f4da361-f98f-4345-8df4-adf352a113221-ezgif-com-resize-1.gif" alt="coding animation" width="100%" />
+## Hi there 👋 I AM OMOR-FARUK
 
 <!--
 **omor-faru/omor-faru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
