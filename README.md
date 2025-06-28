@@ -3,7 +3,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
 </p>
 <h1 align="center">Hi 👋, I'am Omor_Faruk</h1>
-<h2 align="center">Welcome to my Git-hub Accounts</h2>
+<h2 align="center" font="bold" >Welcome to my Git-hub Accounts</h2>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+</p>
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=omor-faru&label=Profile%20Views&color=1E90FF&style=plastic" alt="Profile Views">
 </p>
