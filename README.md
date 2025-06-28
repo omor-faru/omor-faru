@@ -3,6 +3,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
 </p>
 <h1 align="center">Hi 👋, I'am Omor_Faruk</h1>
+<h2 align="center">Welcome to my Git-hub Accounts</h2>
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=omor-faru&label=Profile%20Views&color=1E90FF&style=plastic" alt="Profile Views">
 </p>
@@ -32,8 +33,8 @@ I’m a Front End Web developer passionate about making error-free websites with
 ✅ SASS <br>
 ✅ PUG <br>
 ✅ JavaScript <br>
-✅ React<br>
-✅ Bootstrap <br>
+✅ React Js <br>
+✅ Tailwind <br>
 
 
 ## ☕ Connect with me!
