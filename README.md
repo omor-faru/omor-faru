@@ -48,7 +48,7 @@ I’m a Front End Web developer passionate about making error-free websites with
   <img src="https://img.shields.io/badge/PUG-A86454?style=for-the-badge&logo=pug&logoColor=white" alt="PUG" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Tailwind-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Tailwind" />
 </p>
 
 <br>
