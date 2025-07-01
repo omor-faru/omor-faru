@@ -39,7 +39,6 @@ I’m a Front End Web developer passionate about making error-free websites with
 ✅ React Js <br>
 ✅ Tailwind <br>
 
-## 👨‍💻 Skills & Experience
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
