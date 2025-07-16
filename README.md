@@ -69,7 +69,7 @@ I’m a Front End Web developer passionate about making error-free websites with
 </div>
 
 
-<!--
+
 **omor-faru/omor-faru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -82,4 +82,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
